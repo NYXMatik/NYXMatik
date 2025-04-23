@@ -68,7 +68,7 @@
 
 ### 📫 Get in Touch
 
-- 📧 Email: mateusz.janowski@student.agh.edu.pl
+- 📧 Email: mateusz.janowski@gmail.com
 - 🌍 Location: Kraków, Poland / Porto, Portugal
 - 🧠 CV: Available upon request or in pinned repository
 
