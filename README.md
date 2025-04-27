@@ -23,7 +23,7 @@
 ### 🎓 Education
 
 - **AGH University of Science and Technology**  
-  BSc in Computational Engineering and Applied Informatics (2022–2026)  
+  BSc in Computational Engineering (2022–2026)  
   Core areas: AI, numerical methods, simulations, software engineering
 
 - **ISEP – Instituto Superior de Engenharia do Porto**  
