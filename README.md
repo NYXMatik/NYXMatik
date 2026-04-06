@@ -84,7 +84,7 @@
 
 - 📧 Email: mateusz.janowski@gmail.com
 - 🌍 Location: Kraków, Poland / Porto, Portugal
-- 🧠 CV: [Download my CV (PDF)](./CV_Mateusz_Janowski_eng.pdf)
+- 🧠 CV: [Download my CV (PDF)](./CV_Mat_Jan_ENG.pdf)
 
 ---
 
